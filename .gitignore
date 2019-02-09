@@ -1,0 +1,22 @@
+﻿# Eclipse
+
+.classpath
+
+.project
+
+.settings/
+
+
+
+/bin/
+
+/build/
+/target/
+
+application-local.properties
+
+/package-lock.json
+
+
+
+!/deployment/docker/build/target/
